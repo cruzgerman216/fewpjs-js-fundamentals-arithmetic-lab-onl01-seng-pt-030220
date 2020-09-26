@@ -1,4 +1,1 @@
-let num1 = 2*31;
-
-let num2;
-let random;
+let multiply = num1 * num2;
