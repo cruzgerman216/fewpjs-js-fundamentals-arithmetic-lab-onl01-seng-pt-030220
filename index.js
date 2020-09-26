@@ -1,2 +1,3 @@
+let num1;
 
-// Write your code here
+let random;
